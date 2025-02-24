@@ -1,3 +1,4 @@
+#negative and odd numbers
 start= 1
 end = 100
 for i in range(start, end):
