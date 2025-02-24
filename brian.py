@@ -1,4 +1,4 @@
-
+# area of circle triangle and rectangle and perimeters
 print("choose option 1 ,2 or 3")
 print("1.Area and circumference of a circle")
 print("2.Area and perimeter of a triangle")
